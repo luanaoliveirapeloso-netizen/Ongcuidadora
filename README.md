@@ -10,7 +10,7 @@ Projeto Integrador Extensionista II — front-end com Vite+ e API Express.
 ## Como rodar
 
 ```bash
-git clone https://github.com/seu-usuario/ongcuidadora.git
+git clone https://github.com/luanaoliveirapeloso-netizen/Ongcuidadora
 cd ongcuidadora
 vp install
 cp .env.example .env
